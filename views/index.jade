@@ -145,8 +145,3 @@ html(manifest="app.cache")
     window.LoadIndex = null;
     window.BeerIndex = new Promise(function(res) { window.LoadIndex = res });
     window.BeerApp = initBeerApp(initData);
-    fetch('/latest.json').then(function(res) {
-      return res.json();
-    }).then(function(latest) {
-      BeerApp.updateData(latest);
-    });
