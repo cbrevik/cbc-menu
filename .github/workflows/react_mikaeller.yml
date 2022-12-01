@@ -29,6 +29,12 @@ jobs:
       - name: Zip files
         run: zip -r -q app.zip .
 
+      - name: Upload artifact for deployment job
+        uses: actions/upload-artifact@v2
+        with:
+          name: node-app
+          path: app.zip
+
       - name: 'Deploy to Azure Web App'
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
