@@ -26,8 +26,8 @@ jobs:
           npm install
           npm run build --if-present
 
-      - name: Tar files
-        run: tar -cvf node-app.tar .
+      - name: Zip files
+        run: zip -r -q app.zip .
 
       - name: 'Deploy to Azure Web App'
         id: deploy-to-webapp
@@ -36,4 +36,4 @@ jobs:
           app-name: 'mikaeller'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A2B91264694F4C4A9D9510FFABB4ADEA }}
-          package: node-app.tar
+          package: app.zip
