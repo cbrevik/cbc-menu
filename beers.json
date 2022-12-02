@@ -161,20 +161,7 @@
     "Scotch Ale",
     "Golden Ale"
   ],
-  "metastyles": [
-    "Sour",
-    "Hoppy",
-    "Extreme",
-    "Experimental",
-    "Dark",
-    "Mead",
-    "Cider",
-    "Belgian",
-    "Mixed-fermentation",
-    "Classic",
-    "Wine",
-    "Sake"
-  ],
+  "metastyles": ["Sour", "Hoppy", "Dark", "Mead", "Classic"],
   "beers": [
     {
       "ut_bid": "4932127",
@@ -191,7 +178,7 @@
       "session": 0,
       "style": "Stout - Imperial / Double Pastry",
       "superstyle": "Imperial Stout",
-      "metastyle": "Extreme"
+      "metastyle": "Dark"
     },
     {
       "ut_bid": "9681",
@@ -208,7 +195,7 @@
       "session": 0,
       "style": "Stout - Imperial / Double Coffee",
       "superstyle": "Imperial Stout",
-      "metastyle": "Extreme"
+      "metastyle": "Dark"
     },
     {
       "ut_bid": "1955583",
@@ -225,7 +212,7 @@
       "session": 0,
       "style": "Barley Wine - American",
       "superstyle": "Barley Wine",
-      "metastyle": "Extreme"
+      "metastyle": "Dark"
     },
 
     {
