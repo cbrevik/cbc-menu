@@ -550,6 +550,42 @@
       "style": "Spiced / Herbed Beer",
       "superstyle": "Spiced",
       "metastyle": "Classic"
+    },
+
+    {
+      "ut_bid": "103773",
+      "ba_wants": 1,
+      "desc": "Pure Icelandic glacier water and a classic witbier recipe combine to create our Icelandic White Ale. Crafted clean and crisp, the balanced addition of orange peel, coriander, and rolled oats ensure this beer remains incredibly ﬂavorful and refreshingly drinkable.",
+      "percent": 5.2,
+      "ut_rating": 3.67,
+      "trade": false,
+      "location": "Olav",
+      "acronym": false,
+      "name": "Icelandic White Ale",
+      "id": 103773,
+      "brewery": "Einstök Ölgerð",
+      "session": 0,
+      "style": "Wheat Beer - Witbier / Blanche",
+      "superstyle": "Wheat Beer",
+      "metastyle": "Classic"
+    },
+
+    {
+      "ut_bid": "5102150",
+      "ba_wants": 1,
+      "desc": "Mørk lager",
+      "percent": 5.1,
+      "ut_rating": 3.55,
+      "trade": false,
+      "location": "Olav",
+      "acronym": false,
+      "name": "Klappe Zu, Affe Tot",
+      "id": 5102150,
+      "brewery": "Bådin",
+      "session": 0,
+      "style": "Schwarzbier",
+      "superstyle": "Dark Ale",
+      "metastyle": "Dark"
     }
   ]
 }
