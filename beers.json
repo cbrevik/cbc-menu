@@ -366,6 +366,7 @@
 
     {
       "ut_bid": "4030091",
+      "id": "4030091",
       "desc": "Imperial stout with pistachio, cacao nibs and vanilla.",
       "percent": 16.3,
       "ut_rating": 4.4,
@@ -383,6 +384,7 @@
 
     {
       "ut_bid": "3568706",
+      "id": "3568706",
       "desc": "Bourbon Barrel Aged Winter Ale with Coffee and Cinnamon.",
       "percent": 14,
       "ut_rating": 4.41,
@@ -400,6 +402,7 @@
 
     {
       "ut_bid": "2524507",
+      "id": "2524507",
       "desc": "Vintage of Lou Pepe Kriek.",
       "percent": 5,
       "ut_rating": 4.61,
@@ -417,6 +420,7 @@
 
     {
       "ut_bid": "4495721",
+      "id": "4495721",
       "desc": "43 Plato starting gravity. Aged 8 months in Willett Bourbon barrels, then transferred to Buffalo Trace barrels for an additional 16 months.",
       "percent": 16,
       "ut_rating": 4.32,
