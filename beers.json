@@ -176,7 +176,7 @@
       "brewery": "Stone Brewing",
       "session": 0,
       "style": "Stout - Russian Imperial",
-      "superstyle": "Stout",
+      "superstyle": "Imperial Stout",
       "metastyle": "Dark"
     },
 
@@ -194,7 +194,7 @@
       "brewery": "Firestone Walker Brewing Company",
       "session": 0,
       "style": "Strong Ale - American",
-      "superstyle": "Stout",
+      "superstyle": "American Strong Ale",
       "metastyle": "Dark"
     },
 
@@ -248,7 +248,7 @@
       "brewery": "Perennial Artisan Ales",
       "session": 0,
       "style": "Stout - Imperial / Double",
-      "superstyle": "Stout",
+      "superstyle": "Imperial Stout",
       "metastyle": "Dark"
     },
 
@@ -344,10 +344,10 @@
 
     {
       "ut_bid": "20324",
-      "ba_wants": 1,
       "desc": "",
       "percent": 3.5,
       "ut_rating": 2.78,
+      "ba_wants": 1,
       "trade": false,
       "location": "Eide Konditori",
       "acronym": false,
@@ -358,6 +358,74 @@
       "style": "Lambic - Fruit",
       "superstyle": "Lambic",
       "metastyle": "Sour"
+    },
+
+    {
+      "ut_bid": "4030091",
+      "desc": "Imperial stout with pistachio, cacao nibs and vanilla.",
+      "percent": 16.3,
+      "ut_rating": 4.4,
+      "ba_wants": 1,
+      "trade": false,
+      "location": "Eide Konditori",
+      "acronym": false,
+      "name": "Deep Orbit Andromeda",
+      "brewery": "Other Half Brewing Co.",
+      "session": 0,
+      "style": "Stout - Imperial / Double",
+      "superstyle": "Imperial Stout",
+      "metastyle": "Dark"
+    },
+
+    {
+      "ut_bid": "3568706",
+      "desc": "Bourbon Barrel Aged Winter Ale with Coffee and Cinnamon.",
+      "percent": 14,
+      "ut_rating": 4.41,
+      "ba_wants": 1,
+      "trade": false,
+      "location": "Eide Konditori",
+      "acronym": false,
+      "name": "Coffee Cinnamon B-Bomb (2019)",
+      "brewery": "Fremont Brewing",
+      "session": 0,
+      "style": "Winter Ale",
+      "superstyle": "Dark Ale",
+      "metastyle": "Dark"
+    },
+
+    {
+      "ut_bid": "2524507",
+      "desc": "Vintage of Lou Pepe Kriek.",
+      "percent": 5,
+      "ut_rating": 4.61,
+      "ba_wants": 1,
+      "trade": false,
+      "location": "Eide Konditori",
+      "acronym": false,
+      "name": "Lou Pepe Kriek (2017)",
+      "brewery": "Brasserie Cantillon",
+      "session": 0,
+      "style": "Lambic - Kriek",
+      "superstyle": "Lambic",
+      "metastyle": "Sour"
+    },
+
+    {
+      "ut_bid": "4495721",
+      "desc": "43 Plato starting gravity. Aged 8 months in Willett Bourbon barrels, then transferred to Buffalo Trace barrels for an additional 16 months.",
+      "percent": 16,
+      "ut_rating": 4.32,
+      "ba_wants": 1,
+      "trade": false,
+      "location": "Eide Konditori",
+      "acronym": false,
+      "name": "King of Darkness",
+      "brewery": "Anchorage Brewing Company",
+      "session": 0,
+      "style": "Stout - Imperial / Double",
+      "superstyle": "Imperial Stout",
+      "metastyle": "Dark"
     }
   ]
 }
