@@ -14,6 +14,9 @@
     "Brouwerij De Troch",
     "Other Half Brewing Co.",
     "Fremont Brewing",
+    "Marlobobo",
+    "Mills Brewing",
+    "de Garde Brewing",
     "Anchorage Brewing Company"
   ],
   "superstyles": [
@@ -415,6 +418,60 @@
       "session": 0,
       "style": "Lambic - Kriek",
       "superstyle": "Lambic",
+      "metastyle": "Sour"
+    },
+
+    {
+      "ut_bid": "5072379",
+      "id": "5072379",
+      "desc": "Blackberry mead with lemon curd and vanilla beans.",
+      "percent": 10,
+      "ut_rating": 4.59,
+      "ba_wants": 1,
+      "trade": false,
+      "location": "Eide Konditori",
+      "acronym": false,
+      "name": "GIANT GAS EXO TART (2021)",
+      "brewery": "Marlobobo",
+      "session": 0,
+      "style": "Mead",
+      "superstyle": "Mead",
+      "metastyle": "Mead"
+    },
+
+    {
+      "ut_bid": "4835910",
+      "id": "4835910",
+      "desc": "This is our third edition of Saison Cider Cask. It is always fermented in freshly emptied cider barrels, with a mixture of our spontaneously collected house culture and any remaining lees from the cider making. This edition is a blend of five barrels (from four brews), produced in September 2019, April 2020 and December 2020. The contrasting brews used a variety of grains and a mixture of aged and fresh European hops. Fermentation took place in fresh cider barrels from Oliver's Cider and Perry, as well as Ross-on-Wye Cider and Perry Company. The finished blend was dry-hopped with 2021 season Celeia, before conditioning in bottle for two months prior to release.",
+      "percent": 5.2,
+      "ut_rating": 4.3,
+      "ba_wants": 1,
+      "trade": false,
+      "location": "Eide Konditori",
+      "acronym": false,
+      "name": "Saison Cider Cask - Blend Three",
+      "brewery": "Mills Brewing",
+      "session": 0,
+      "style": "Farmhouse Ale",
+      "superstyle": "Farmhouse Ale",
+      "metastyle": "Sour"
+    },
+
+    {
+      "ut_bid": "4503139",
+      "id": "4503139",
+      "desc": "A spontaneous wild ale with tart cherries, vanilla beans, and cacoa nibs, aged in oak barrels for three years.",
+      "percent": 7.7,
+      "ut_rating": 4.31,
+      "ba_wants": 1,
+      "trade": false,
+      "location": "Eide Konditori",
+      "acronym": false,
+      "name": "Lee Kriek Réserve: Cacao & Vanilla Cuvée",
+      "brewery": "de Garde Brewing",
+      "session": 0,
+      "style": "American Wild Ale",
+      "superstyle": "American Wild Ale",
       "metastyle": "Sour"
     },
 
